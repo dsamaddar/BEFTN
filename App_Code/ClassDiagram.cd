@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="clsAgreements" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EVAAACkMACIAgAQQgIgEBQSAEEMCSEACASQYgAgIAQg=</HashCode>
+      <FileName>App_Code\clsAgreements.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsBanks" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgCAAAAAAAAAAAAAQAAFABAAAAAADAAAAAAAAA=</HashCode>
+      <FileName>App_Code\clsBanks.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsBEFTNRouting" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAFACAIAAAABAAEAAaAEEIAEAAAACAAABAAAAg=</HashCode>
+      <FileName>App_Code\clsBEFTNRouting.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsClients" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAQAAAYCMCAAAAgIgEAESAAAAAAAAgQAAEgIgAAAo=</HashCode>
+      <FileName>App_Code\clsClients.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsClosedAgreements" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAKAAACAAAAAEAQCEAAAAAAAAAAAAAAAAAEg=</HashCode>
+      <FileName>App_Code\clsClosedAgreements.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsCon" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAABAAAAAAQAAAAAAAEAAAAAEAgAAAAA=</HashCode>
+      <FileName>App_Code\clsCon.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsPaymentSchedule" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAUAAAAACEAgCQAMAIEAQCAEAACSRACBCAAAAGAAAg=</HashCode>
+      <FileName>App_Code\clsPaymentSchedule.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsProducts" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EMAgACAAACAAAAAAAAAEAQCAAEEgAAAAAgAIAAgIAAg=</HashCode>
+      <FileName>App_Code\clsProducts.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsResult" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAhEAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>App_Code\clsResult.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
